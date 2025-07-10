@@ -1,7 +1,7 @@
 import React from "react"
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import HomePage from "../Pages/HomePage"
-import "../styles/global.css"
+import "../Styles/global.css"
 import { WhatsAppProvider } from "../Context/WhatsappContext"
 import ContactInfoPage from "../Pages/ContactInfoPage"
 import MessagePage from "../pages/MessagePage"
