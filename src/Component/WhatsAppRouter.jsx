@@ -4,7 +4,7 @@ import HomePage from "../Pages/HomePage"
 import "../Styles/global.css"
 import { WhatsAppProvider } from "../Context/WhatsappContext"
 import ContactInfoPage from "../Pages/ContactInfoPage"
-import MessagePage from "../pages/MessagePage"
+import MessagePage from "../Pages/MessagePage"
 
 
 
